@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "체육대학관": {
+      "style": "tan",
+      "wall": "#d9cfb8",
+      "glass": "#4a4e50",
+      "frame": "#c9c3b5"
+    },
+    "전자정보대학": {
+      "style": "ribbon",
+      "wall": "#8f9097",
+      "glass": "#3a4550",
+      "frame": "#b8b9bd"
+    },
+    "예술디자인대학": {
+      "style": "stone",
+      "wall": "#d4d4d8",
+      "glass": "#4f5a66",
+      "frame": "#e6e6ea"
+    },
+    "우정원": {
+      "style": "dorm",
+      "wall": "#ccd0d8",
+      "glass": "#44677b",
+      "frame": "#2f6f8a"
+    },
+    "공학관": {
+      "style": "ribbon",
+      "wall": "#c4c0c2",
+      "glass": "#4a5258",
+      "frame": "#9e979a"
+    },
+    "중앙도서관": {
+      "style": "stone",
+      "wall": "#9aa0a6",
+      "glass": "#48575e",
+      "frame": "#c8cdd2"
+    },
+    "선승관": {
+      "style": "brick",
+      "wall": "#8f6f62",
+      "glass": "#423734",
+      "frame": "#c7b9a8"
+    },
+    "공학실험동": {
+      "style": "concrete",
+      "wall": "#958d7f",
+      "glass": "#3f4a4e",
+      "frame": "#6d685d"
+    },
+    "외국어대학관": {
+      "style": "ribbon",
+      "wall": "#d9d9dd",
+      "glass": "#3d4c53",
+      "frame": "#a4a7b1"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
